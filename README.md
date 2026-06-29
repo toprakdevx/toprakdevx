@@ -1,6 +1,6 @@
 # Hakkımda ❔
 
-Merhaba! Ben **Taha**. Yaklaşık **4 yıldır** aktif olarak yazılım geliştiriyorum. Çoğunlukla **Java** ve **PHP** teknolojileri üzerinde çalışıyor, özellikle **Java** diline ileri seviyede hâkimim. Ayrıca backend sistemleri ve veritabanı yönetimi konularında derinlemesine bilgi sahibiyim.
+Merhaba! Ben **Taha**. Yaklaşık **7 yıldır** aktif olarak yazılım geliştiriyorum. Çoğunlukla **Java** ve **PHP** teknolojileri üzerinde çalışıyor, özellikle **Java** diline ileri seviyede hâkimim. Ayrıca backend sistemleri ve veritabanı yönetimi konularında derinlemesine bilgi sahibiyim.
 
 ### 🎮 Minecraft Geliştirme Deneyimi
 Minecraft sunucuları üzerinde yaptığım geliştirmelerle 4 yıllık süreçte önemli bir teknik birikim kazandım. Bu süreçte sadece oyuncu değil, mutfaktaki mimar olarak şunları gerçekleştirdim:
