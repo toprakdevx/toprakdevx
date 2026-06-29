@@ -1,4 +1,4 @@
-# LeadersCordi Hakkında ❔
+# Hakkımda ❔
 
 Merhaba! Ben **Taha**. Yaklaşık **4 yıldır** aktif olarak yazılım geliştiriyorum. Çoğunlukla **Java** ve **PHP** teknolojileri üzerinde çalışıyor, özellikle **Java** diline ileri seviyede hâkimim. Ayrıca backend sistemleri ve veritabanı yönetimi konularında derinlemesine bilgi sahibiyim.
 
@@ -10,7 +10,7 @@ Minecraft sunucuları üzerinde yaptığım geliştirmelerle 4 yıllık süreçt
 * **Geliştiricilik & Yönetim:** Çeşitli sunucularda **Geliştirici (Developer)** olarak görev aldım ve projelerin teknik gelişimine doğrudan katkıda bulundum. Ayrıca bazı sunucuların da **kuruculuğunu/sahipliğini** üstlenerek proje yönetim tecrübesi edindim.
 
 ### 🏛️ Görev Aldığım Projeler
-* **[CRM PRAGMA]**, **[CRM MUHASEBE]** ve **[LEXON PROJECT]** gibi projelerde görev alarak teknik altyapıların kurulumunu ve yönetimini üstlendim. Bu süreçte geliştirdiğim sistemler sayesinde başarılı ve stabil sonuçlar elde ettim.
+* **[BİZİM BULUT CRM OTOMASYON]**, **[CRM MUHASEBE]** ve **[LEXON PROJECT]** gibi projelerde görev alarak teknik altyapıların kurulumunu ve yönetimini üstlendim. Bu süreçte geliştirdiğim sistemler sayesinde başarılı ve stabil sonuçlar elde ettim.
 
 ---
 
