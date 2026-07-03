@@ -26,7 +26,22 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 <br/>
 
-###  What I've Built
+###  Currently
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🔨 | Building **high-performance Minecraft plugins** on Paper/Spigot |
+| 📚 | Leveling up in **Go**, **Rust** & **C++** |
+| 🧠 | Deepening **backend architecture** & **database** design |
+| 🤝 | Open to interesting **backend / Minecraft** collaborations |
+
+</div>
+
+<br/>
+
+###  Craft & Experience
 
 <div align="center">
 
@@ -121,7 +136,19 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
+&nbsp;
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toprakdevx&theme=github_dark&utcOffset=3" />
+
+</div>
+
+<br/>
+
+###  Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
 </div>
 
@@ -142,5 +169,7 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<sub><i>« clean architecture, measurable performance »</i></sub>
 
 </div>
