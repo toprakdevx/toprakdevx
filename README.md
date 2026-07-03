@@ -1,155 +1,146 @@
-<!-- ═══════════════════  HERO  ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=210&section=header&text=Toprak&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Backend%20Developer%20%E2%80%A2%20Minecraft%20Plugin%20Developer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Toprak&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/toprakdevx">
-  <img src="https://komarev.com/ghpvc/?username=toprakdevx&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/7%2B_Years-Experience-4A00E0?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Based_in-Türkiye-8E2DE2?style=for-the-badge" />
+**`Java Developer • Minecraft Plugin Developer • Backend Engineer`**
 
-</div>
+<br/>
 
-<!-- ═══════════════════  ABOUT  ═══════════════════ -->
-
-<div align="center">
-
-###  ⚡ About Me
-
-Backend developer with **7+ years** of turning ideas into **fast, reliable server-side systems**.
-Advanced in **Java**, professional in **PHP**, and expanding into **Go · Rust · C++**.
-**4 years** architecting Minecraft servers — from custom high-performance plugins to full server ownership.
-
-<i>« clean architecture, measurable performance »</i>
+[![Profile Views](https://komarev.com/ghpvc/?username=toprakdevx&color=8957e5&style=for-the-badge&label=Profile+Views)](https://github.com/toprakdevx)
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
+###  About Me
 
 <div align="center">
 
-###  🛠️ Tech Stack
-
-<br/>
-
-<b>Languages</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=java,php,go,rust,cpp&theme=dark" height="52" />
-
-<br/><br/>
-
-<b>Data & Infrastructure</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,redis,docker,linux,git,gradle,maven&theme=dark" height="52" />
-
-<br/><br/>
-
-<b>Minecraft Ecosystem</b><br/><br/>
-<img src="https://img.shields.io/badge/Spigot-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Bukkit-1DB954?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Paper-2A2A2A?style=for-the-badge&logo=minecraft&logoColor=white" />
+Backend developer with **7+ years** of experience, specialized in **Java** and **Minecraft server development**.
+Strong background in **high-performance plugins**, **backend systems** and **database management**.
+Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════  EXPERIENCE  ═══════════════════ -->
+###  Tech Stack
 
 <div align="center">
 
-###  🚀 What I've Built
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot%2FPaper-1DB954?style=for-the-badge&logo=minecraft&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<table width="100%">
+<br/>
+
+###  Experience
+
+<div align="center">
+
+<table>
 <tr>
-<td valign="top" width="50%" align="center">
+<td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/🎮_Minecraft_Development-8E2DE2?style=for-the-badge" />
+<br/>
 
-<sub><b>4 Years · Developer & Server Owner</b></sub>
+<img src="https://img.shields.io/badge/Minecraft_Development-1DB954?style=for-the-badge&logo=minecraft&logoColor=white" />
 
 <br/><br/>
 
-🧩 &nbsp; **Custom Plugins** — complex, high-performance systems from scratch <br/>
-⚙️ &nbsp; **Architecture** — server-side optimization & mechanics <br/>
-👑 &nbsp; **Leadership** — developer roles & full ownership <br/>
-🚀 &nbsp; **Delivery** — stable, production-ready builds
+<sub><b>4 Years as Developer & Server Owner</b></sub>
+
+<br/><br/>
+
+| | Area | Details |
+|:--|:-----|:--------|
+| :jigsaw: | **Custom Plugins** | High-performance systems from scratch |
+| :zap: | **Performance** | Server-side optimization & TPS tuning |
+| :crossed_swords: | **Mechanics** | Custom in-game systems & gameplay |
+| :crown: | **Ownership** | Developer roles & server management |
 
 </td>
-<td valign="top" width="50%" align="center">
+<td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/💼_CRM_&_Automation-4A00E0?style=for-the-badge" />
+<br/>
+
+<img src="https://img.shields.io/badge/Backend_&_CRM-8957E5?style=for-the-badge&logo=php&logoColor=white" />
+
+<br/><br/>
 
 <sub><b>Professional Projects</b></sub>
 
 <br/><br/>
 
-☁️ &nbsp; **Bizim Bulut CRM** — automation infrastructure <br/>
-📒 &nbsp; **CRM Muhasebe** — accounting system architecture <br/>
-🧠 &nbsp; **Lexon Project** — backend infra & technical lead <br/>
-🌐 &nbsp; **Web Panels** — PHP admin panels & APIs
+| | Project | Contribution |
+|:--|:--------|:------------|
+| :cloud: | **Bizim Bulut CRM** | Automation infrastructure |
+| :ledger: | **CRM Muhasebe** | Accounting architecture |
+| :gear: | **Lexon Project** | Backend infra & tech lead |
+| :globe_with_meridians: | **Web Panels** | PHP admin panels & APIs |
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════════  TROPHIES  ═══════════════════ -->
-
-<div align="center">
-
-###  🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=toprakdevx&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%" />
-
 </div>
 
 <br/>
 
-<!-- ═══════════════════  STATS  ═══════════════════ -->
+###  GitHub Stats
 
 <div align="center">
 
-###  📊 Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=react&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=react&hide_border=true&border_radius=12&langs_count=8&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=react&hide_border=true&border_radius=12&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2&sideLabels=c9d1d9&dates=8b949e" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Contribution%20Activity&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" width="98%" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════  CONNECT  ═══════════════════ -->
+###  Contribution Graph
 
 <div align="center">
 
-###  📬 Let's Connect
-
-<a href="https://discord.com/users/iyitanirlarr"><img src="https://img.shields.io/badge/Discord-iyitanirlarr-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:cordimt@gmail.com"><img src="https://img.shields.io/badge/Email-cordimt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/toprakdevx"><img src="https://img.shields.io/badge/GitHub-toprakdevx-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=8957e5&point=8957e5" width="95%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" width="100%" />
+<br/>
+
+###  Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-iyitanirlarr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iyitanirlarr)
+[![Email](https://img.shields.io/badge/Email-cordimt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cordimt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-toprakdevx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toprakdevx)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
