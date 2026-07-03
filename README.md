@@ -128,7 +128,7 @@ Strong background in **backend systems**, **database management**, and building 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Taha's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Toprak's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" width="95%"/>
 
 </div>
 
