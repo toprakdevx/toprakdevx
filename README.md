@@ -88,16 +88,6 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 <br/>
 
-###  Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-
-</div>
-
-<br/>
-
 ###  Connect With Me
 
 <div align="center">
