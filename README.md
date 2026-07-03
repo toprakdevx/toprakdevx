@@ -1,153 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Toprak&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- ─────────────  HEADER  ───────────── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Toprak+%F0%9F%91%8B;Backend+Developer;Minecraft+Plugin+Developer;7%2B+Years+of+Code" alt="Typing SVG" />
 
 <br/>
 
-**`Backend Developer • Java & PHP • Minecraft Plugin Developer`**
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=toprakdevx&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/toprakdevx)
+<a href="https://github.com/toprakdevx"><img src="https://komarev.com/ghpvc/?username=toprakdevx&color=7AA2F7&style=flat-square&label=Profile+Views" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-7AA2F7?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Based%20in-Türkiye-bb9af7?style=flat-square" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-###  About Me
+<!-- ─────────────  ABOUT  ───────────── -->
+
+###  &nbsp;`~/whoami`
+
+```yaml
+name:        Toprak
+role:        Backend Developer
+experience:  7+ years
+core:        [ Java, PHP ]
+exploring:   [ Go, Rust, C++ ]
+focus:       high-performance server-side systems & databases
+mindset:     "clean architecture, measurable performance"
+```
+
+<!-- ─────────────  TECH  ───────────── -->
+
+###  &nbsp;`~/tech-stack`
 
 <div align="center">
 
-Software developer with **7+ years** of hands-on experience, specialized in **Java** (advanced) and **PHP**.
-Strong background in **backend systems**, **database management**, and building **high-performance server-side architectures**.
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Data & Infra**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Ecosystem**
+
+![Spigot](https://img.shields.io/badge/Spigot%20%2F%20Bukkit-ED8B00?style=flat-square&logo=minecraft&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-###  Tech Stack
+<!-- ─────────────  EXPERIENCE  ───────────── -->
 
-<div align="center">
+###  &nbsp;`~/experience`
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Spigot](https://img.shields.io/badge/Spigot%2FBukkit-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
-</div>
-
-<br/>
-
-###  Experience
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-<br/>
+####  🟢 Minecraft Development
+<sub>**4 years** · Developer & Server Owner</sub>
 
-<img src="https://img.shields.io/badge/Minecraft_Development-1DB954?style=for-the-badge&logo=minecraft&logoColor=white" />
-
-<br/><br/>
-
-<sub><b>4 Years as Server Developer & Owner</b></sub>
-
-<br/><br/>
-
-| | Area | Details |
-|:--|:-----|:--------|
-| :brain: | **Custom Plugins** | Complex, high-performance systems from scratch |
-| :zap: | **Architecture** | Server-side optimization & in-game mechanics |
-| :shield: | **Management** | Developer roles & server ownership |
-| :rocket: | **Delivery** | Stable, production-ready deployments |
+- **Custom Plugins** — complex, high-performance systems built from scratch
+- **Architecture** — server-side optimization & in-game mechanics
+- **Leadership** — developer roles & full server ownership
+- **Delivery** — stable, production-ready deployments
 
 </td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-<br/>
+####  🔵 CRM & Automation
+<sub>Professional Projects</sub>
 
-<img src="https://img.shields.io/badge/Professional_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-<sub><b>CRM & Automation Systems</b></sub>
-
-<br/><br/>
-
-| | Project | Contribution |
-|:--|:--------|:------------|
-| :cloud: | **Bizim Bulut CRM** | Automation infrastructure & management |
-| :ledger: | **CRM Muhasebe** | Accounting system architecture |
-| :gear: | **Lexon Project** | Backend infrastructure & technical lead |
-| :globe_with_meridians: | **Web Panels** | PHP-based admin panels & API development |
+- **Bizim Bulut CRM** — automation infrastructure & management
+- **CRM Muhasebe** — accounting system architecture
+- **Lexon Project** — backend infrastructure & technical lead
+- **Web Panels** — PHP-based admin panels & API development
 
 </td>
 </tr>
 </table>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<br/>
+<!-- ─────────────  STATS  ───────────── -->
 
-###  GitHub Stats
+###  &nbsp;`~/stats`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
-</picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&bg_color=1a1b27&title_color=7aa2f7" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff" width="98%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ─────────────  CONTACT  ───────────── -->
+
+###  &nbsp;`~/connect`
+
+<div align="center">
+
+<a href="https://discord.com/users/iyitanirlarr"><img src="https://img.shields.io/badge/Discord-iyitanirlarr-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:cordimt@gmail.com"><img src="https://img.shields.io/badge/Email-cordimt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/toprakdevx"><img src="https://img.shields.io/badge/GitHub-toprakdevx-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=default&hide_border=true&border_radius=12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
-</picture>
-
-</div>
-
-<br/>
-
-###  Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Toprak's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" width="95%"/>
-
-</div>
-
-<br/>
-
-###  Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-iyitanirlarr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iyitanirlarr)
-[![Email](https://img.shields.io/badge/Email-cordimt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cordimt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-toprakdevx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toprakdevx)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<sub><i>« clean architecture, measurable performance »</i></sub>
 
 </div>
