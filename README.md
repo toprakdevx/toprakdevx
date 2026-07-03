@@ -26,29 +26,7 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 <br/>
 
-###  Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot%2FPaper-1DB954?style=for-the-badge&logo=minecraft&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
-###  Experience
+###  What I've Built
 
 <div align="center">
 
@@ -101,17 +79,23 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 <br/>
 
-###  GitHub Stats
+###  Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot%2FPaper-1DB954?style=for-the-badge&logo=minecraft&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-<br/><br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -122,6 +106,22 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=8957e5&point=8957e5" width="95%"/>
+
+</div>
+
+<br/>
+
+###  GitHub Stats
+
+<div align="center">
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toprakdevx&theme=github_dark" />
+&nbsp;
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toprakdevx&theme=github_dark" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
 
 </div>
 
