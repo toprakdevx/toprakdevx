@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=LeadersCordi&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/LeadersCordi)
+[![Profile Views](https://komarev.com/ghpvc/?username=toprakdevx&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/toprakdevx)
 
 </div>
 
@@ -101,23 +101,23 @@ Strong background in **backend systems**, **database management**, and building 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LeadersCordi&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LeadersCordi&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeadersCordi&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=toprakdevx&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeadersCordi&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeadersCordi&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeadersCordi&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakdevx&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=LeadersCordi&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=LeadersCordi&theme=default&hide_border=true&border_radius=12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeadersCordi&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=default&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
 </picture>
 
 </div>
@@ -128,7 +128,7 @@ Strong background in **backend systems**, **database management**, and building 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeadersCordi&custom_title=Taha's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Taha's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" width="95%"/>
 
 </div>
 
@@ -140,7 +140,7 @@ Strong background in **backend systems**, **database management**, and building 
 
 [![Discord](https://img.shields.io/badge/Discord-iyitanirlarr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iyitanirlarr)
 [![Email](https://img.shields.io/badge/Email-cordimt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cordimt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-LeadersCordi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeadersCordi)
+[![GitHub](https://img.shields.io/badge/GitHub-toprakdevx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toprakdevx)
 
 </div>
 
