@@ -26,69 +26,9 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 <br/>
 
-###  Currently
-
 <div align="center">
 
-| | |
-|:--|:--|
-| 🔨 | Building **high-performance Minecraft plugins** on Paper/Spigot |
-| 📚 | Leveling up in **Go**, **Rust** & **C++** |
-| 🧠 | Deepening **backend architecture** & **database** design |
-| 🤝 | Open to interesting **backend / Minecraft** collaborations |
-
-</div>
-
-<br/>
-
-###  Craft & Experience
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<br/>
-
-<img src="https://img.shields.io/badge/Minecraft_Development-1DB954?style=for-the-badge&logo=minecraft&logoColor=white" />
-
-<br/><br/>
-
-<sub><b>4 Years as Developer & Server Owner</b></sub>
-
-<br/><br/>
-
-| | Area | Details |
-|:--|:-----|:--------|
-| :jigsaw: | **Custom Plugins** | High-performance systems from scratch |
-| :zap: | **Performance** | Server-side optimization & TPS tuning |
-| :crossed_swords: | **Mechanics** | Custom in-game systems & gameplay |
-| :crown: | **Ownership** | Developer roles & server management |
-
-</td>
-<td align="center" width="50%">
-
-<br/>
-
-<img src="https://img.shields.io/badge/Backend_&_CRM-8957E5?style=for-the-badge&logo=php&logoColor=white" />
-
-<br/><br/>
-
-<sub><b>Professional Projects</b></sub>
-
-<br/><br/>
-
-| | Project | Contribution |
-|:--|:--------|:------------|
-| :cloud: | **Bizim Bulut CRM** | Automation infrastructure |
-| :ledger: | **CRM Muhasebe** | Accounting architecture |
-| :gear: | **Lexon Project** | Backend infra & tech lead |
-| :globe_with_meridians: | **Web Panels** | PHP admin panels & APIs |
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toprakdevx&theme=github_dark" width="85%" />
 
 </div>
 
@@ -116,11 +56,15 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 
 <br/>
 
-###  Contribution Graph
+###  Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakdevx&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=8957e5&point=8957e5" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toprakdevx/toprakdevx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toprakdevx/toprakdevx/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/toprakdevx/toprakdevx/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
