@@ -78,14 +78,6 @@ Also working with **PHP**, and exploring **Go**, **Rust** & **C++**.
 &nbsp;
 <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toprakdevx&theme=github_dark" />
 
-<br/><br/>
-
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=toprakdevx&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
-&nbsp;
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toprakdevx&theme=github_dark&utcOffset=3" />
-
-</div>
-
 <br/>
 
 ###  Connect With Me
